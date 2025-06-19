@@ -23,7 +23,7 @@ This is a minimal Express.js server written in TypeScript that acts as a wrapper
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kilbha/openai-chat-api.git
 cd your-repo-name
 ````
 
