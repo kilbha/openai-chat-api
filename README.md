@@ -119,13 +119,3 @@ You can use Postman, curl, or any other HTTP client to test it.
 ## 🧠 License
 
 MIT — use it, share it, improve it.
-
-```
-
----
-
-Let me know if you want to add:
-- Example curl command  
-- Docker setup  
-- Deployment instructions (like Vercel, Railway, etc.)
-```
